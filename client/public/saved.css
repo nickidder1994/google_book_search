@@ -1,0 +1,27 @@
+.h1 {
+    margin-left: 450px;
+    margin-top: 25px;
+    text-decoration-line: underline;
+}
+.h4 {
+    margin-left: 500px; 
+}
+.head-container-fluid {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px
+}
+.saved-container-fluid {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 600px
+
+}
+.saved {
+    margin-left: 20px;
+    text-decoration-line: underline
+}
