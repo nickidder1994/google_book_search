@@ -1,0 +1,43 @@
+.h1 {
+    margin-left: 565px;
+    margin-top: 25px;
+    text-decoration-line: underline;
+}
+.h4 {
+    margin-left: 562px; 
+}
+.head-container-fluid {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px
+}
+.search-container-fluid {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 20px
+}
+.search {
+    margin-left: 20px;
+    text-decoration-line: underline
+}
+.results-container-fluid {
+    border: 1px solid black;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 600px
+
+}
+.text {
+    margin-left: 20px;
+    width: 550px
+}
+.results {
+    margin-left: 20px;
+    text-decoration-line: underline
+}
